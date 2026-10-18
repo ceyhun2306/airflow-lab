@@ -1,0 +1,27 @@
+{"order_id": "O0001", "items": [{"product": "Pen", "qty": 2, "price": 0.8}, {"product": "Snack Bar", "qty": 2, "price": 1.5}]}
+{"order_id": "O0002", "items": [{"product": "Notebook", "qty": 1, "price": 3.3}, {"product": "Cheese", "qty": 3, "price": 5.5}, {"product": "Water", "qty": 1, "price": 0.9}, {"product": "Shampoo", "qty": 2, "price": 4.7}]}
+{"order_id": "O0003", "items": [{"product": "Shampoo", "qty": 2, "price": 4.7}, {"product": "Bread", "qty": 3, "price": 1.2}]}
+{"order_id": "O0004", "items": [{"product": "Detergent", "qty": 2, "price": 6.4}, {"product": "Coffee", "qty": 2, "price": 8.9}, {"product": "Snack Bar", "qty": 3, "price": 1.5}]}
+{"order_id": "O0005", "items": [{"product": "Cheese", "qty": 2, "price": 5.5}, {"product": "Shampoo", "qty": 1, "price": 4.7}, {"product": "Detergent", "qty": 1, "price": 6.4}, {"product": "Milk", "qty": 1, "price": 2.1}]}
+{"order_id": "O0006", "items": [{"product": "Cheese", "qty": 1, "price": 5.5}, {"product": "Milk", "qty": 2, "price": 2.1}, {"product": "Detergent", "qty": 3, "price": 6.4}, {"product": "Notebook", "qty": 2, "price": 3.3}]}
+{"order_id": "O0007", "items": [{"product": "Headphones", "qty": 1, "price": 25.0}, {"product": "Coffee", "qty": 1, "price": 8.9}, {"product": "Snack Bar", "qty": 2, "price": 1.5}, {"product": "Cheese", "qty": 1, "price": 5.5}]}
+{"order_id": "O0008", "items": [{"product": "Snack Bar", "qty": 3, "price": 1.5}]}
+{"order_id": "O0009", "items": [{"product": "Bread", "qty": 2, "price": 1.2}]}
+{"order_id": "O0010", "items": [{"product": "Milk", "qty": 3, "price": 2.1}, {"product": "Charger", "qty": 1, "price": 12.5}, {"product": "Snack Bar", "qty": 2, "price": 1.5}, {"product": "Cheese", "qty": 3, "price": 5.5}]}
+{"order_id": "O0011", "items": [{"product": "Shampoo", "qty": 2, "price": 4.7}, {"product": "Bread", "qty": 1, "price": 1.2}, {"product": "Coffee", "qty": 2, "price": 8.9}]}
+{"order_id": "O0012", "items": [{"product": "Water", "qty": 3, "price": 0.9}, {"product": "Shampoo", "qty": 1, "price": 4.7}, {"product": "Headphones", "qty": 3, "price": 25.0}]}
+{"order_id": "O0013", "items": [{"product": "Water", "qty": 3, "price": 0.9}]}
+{"order_id": "O0014", "items": [{"product": "Water", "qty": 3, "price": 0.9}, {"product": "Notebook", "qty": 3, "price": 3.3}, {"product": "Detergent", "qty": 3, "price": 6.4}]}
+{"order_id": "O0015", "items": [{"product": "Milk", "qty": 2, "price": 2.1}, {"product": "Snack Bar", "qty": 1, "price": 1.5}]}
+{"order_id": "O0016", "items": [{"product": "Milk", "qty": 1, "price": 2.1}, {"product": "Pen", "qty": 1, "price": 0.8}, {"product": "Charger", "qty": 3, "price": 12.5}]}
+{"order_id": "O0017", "items": [{"product": "Detergent", "qty": 2, "price": 6.4}]}
+{"order_id": "O0018", "items": [{"product": "Detergent", "qty": 3, "price": 6.4}]}
+{"order_id": "O0019", "items": [{"product": "Headphones", "qty": 2, "price": 25.0}, {"product": "Water", "qty": 1, "price": 0.9}, {"product": "Detergent", "qty": 1, "price": 6.4}, {"product": "Charger", "qty": 1, "price": 12.5}]}
+{"order_id": "O0020", "items": [{"product": "Detergent", "qty": 2, "price": 6.4}]}
+{"order_id": "O0021", "items": [{"product": "Coffee", "qty": 2, "price": 8.9}]}
+{"order_id": "O0022", "items": [{"product": "Shampoo", "qty": 2, "price": 4.7}, {"product": "Charger", "qty": 2, "price": 12.5}, {"product": "Headphones", "qty": 2, "price": 25.0}, {"product": "Coffee", "qty": 2, "price": 8.9}]}
+{"order_id": "O0023", "items": [{"product": "Detergent", "qty": 1, "price": 6.4}, {"product": "Shampoo", "qty": 1, "price": 4.7}]}
+{"order_id": "O0024", "items": [{"product": "Cheese", "qty": 2, "price": 5.5}, {"product": "Headphones", "qty": 3, "price": 25.0}, {"product": "Pen", "qty": 3, "price": 0.8}, {"product": "Coffee", "qty": 3, "price": 8.9}]}
+{"order_id": "O0025", "items": [{"product": "Coffee", "qty": 2, "price": 8.9}, {"product": "Headphones", "qty": 2, "price": 25.0}, {"product": "Detergent", "qty": 3, "price": 6.4}]}
+{"order_id": "O0026", "items": [{"product": "Water", "qty": 1, "price": 0.9}, {"product": "Bread", "qty": 2, "price": 1.2}, {"product": "Cheese", "qty": 2, "price": 5.5}, {"product": "Pen", "qty": 3, "price": 0.8}]}
+{"order_id": "O0027", "items": [{"product": "Milk", "qty": 1, "price": 2.1}, {"product": "Water", "qty": 1, "price": 0.9}]}

@@ -1,0 +1,17 @@
+# Gizli məlumatlar (.env.example isə Git-ə gedir)
+.env
+ 
+# Airflow icra zamanı yaranan fayllar (.gitkeep qalır ki, qovluq klonda yaransın)
+airflow/logs/*
+!airflow/logs/.gitkeep
+ 
+# Python
+__pycache__/
+*.pyc
+ 
+# Redaktor və əməliyyat sistemi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ 

@@ -1,0 +1,6 @@
+apache-airflow-providers-standard
+apache-airflow-providers-common-sql
+apache-airflow-providers-postgres
+apache-airflow-providers-fab
+apache-airflow-providers-smtp
+apache-airflow-providers-amazon
